@@ -8,7 +8,7 @@
 - :credit_card: Meu nome completo é **Felipe Luigi Lira** <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" align="right"/>
 - :school: No momento não estou estudando em nenhuma escola
 - :books: Sou programador autodidata
-- :earth_brazil: Eu vivo atualmente no Brasil
+- 🌎: Eu vivo atualmente no Brasil
 - :sweat_smile: Sou curioso de forma geral, sempre estou buscando aprender algo novo
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Experiência
