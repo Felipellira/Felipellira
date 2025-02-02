@@ -41,6 +41,11 @@ As a self-taught developer, I'm committed to continuous learning, especially in 
 
 I'm always eager to assist others in their coding journey or any tech-related challenges. Whether you need advice, collaboration, or just someone to bounce ideas off, feel free to reach out. Let's learn and grow together!
 
+## 🤝 Let's Connect
+
+- **Discord**: [Felipellira](https://discordapp.com/users/discordapp.com/users/889898811529502740)
+- **Email**: [felipeluigilira@proton.me](mailto:felipeluigilira@proton.me)
+
 ---
 
 Feel free to connect with me. I'm always open to networking and discussing new ideas!
