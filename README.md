@@ -45,6 +45,7 @@ I'm always eager to assist others in their coding journey or any tech-related ch
 
 - **Discord**: [Felipellira](https://discordapp.com/users/discordapp.com/users/889898811529502740)
 - **Email**: [felipeluigilira@proton.me](mailto:felipeluigilira@proton.me)
+- **LinkedIn**: [linkedin.com/in/felipellira](https://www.linkedin.com/in/felipellira/)
 
 ---
 
