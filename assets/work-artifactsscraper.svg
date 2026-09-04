@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="176" viewBox="0 0 900 176" role="img" aria-label="Selected work: ArtifactsScraper — a lightweight C# library for scraping Cfx.re artifact information.">
+<rect x=".5" y=".5" width="899" height="175" rx="14" fill="#0D1117" stroke="#21262D"/>
+
+<text x="56" y="40" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#484F58" letter-spacing="1.2">// selected work</text>
+<g>
+  <text x="56" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#E6EDF3" letter-spacing="-.3">ArtifactsScraper</text>
+  <text x="56" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8B949E">A lightweight library that simplifies scraping Cfx.re (FiveM) server artifact information.</text>
+
+  <g transform="translate(56 146)" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E7681">
+    <circle cx="4" cy="-4" r="3.5" fill="#34FEC2"/>
+    <text x="14" y="0">C#</text>
+    <text x="52" y="0">MIT</text>
+    <text x="96" y="0">.NET library</text>
+  </g>
+
+  <text x="844" y="146" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#34FEC2" letter-spacing=".2">github.com/Felipellira/ArtifactsScraper  ↗</text>
+</g>
+</svg>
