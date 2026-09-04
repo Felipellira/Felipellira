@@ -20,9 +20,18 @@
   <line x1="5.5" y1="0" x2="11.5" y2="0" stroke="#34FEC2" stroke-opacity=".6" stroke-width="1.1"/>
 </g>
 
+<g transform="translate(560 30)" opacity=".9">
+  <g stroke="#262D36" stroke-width="1"><line x1="0" y1="22" x2="58" y2="4"/><line x1="58" y1="4" x2="118" y2="30"/><line x1="118" y1="30" x2="176" y2="-2"/><line x1="176" y1="-2" x2="236" y2="18"/><line x1="236" y1="18" x2="292" y2="34"/><line x1="292" y1="34" x2="340" y2="8"/><line x1="58" y1="4" x2="176" y2="-2"/><line x1="176" y1="-2" x2="292" y2="34"/></g>
+  <circle cx="0" cy="22" r="1.8" fill="#6E7681"/><circle cx="58" cy="4" r="1.8" fill="#6E7681"/><circle cx="118" cy="30" r="1.8" fill="#6E7681"/><circle cx="176" cy="-2" r="2.6" fill="#34FEC2"/><circle cx="176" cy="-2" r="7" fill="#34FEC2" opacity=".16"><animate attributeName="r" values="4;9;4" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".22;.06;.22" dur="6s" repeatCount="indefinite"/></circle><circle cx="236" cy="18" r="1.8" fill="#6E7681"/><circle cx="292" cy="34" r="1.8" fill="#6E7681"/><circle cx="340" cy="8" r="1.8" fill="#6E7681"/>
+  <circle r="1.7" fill="#34FEC2">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M0,22 L58,4 L176,-2 L236,18 L292,34 L340,8" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.94;1" dur="9s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
 <text x="0" y="84" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8B949E" xml:space="preserve">backend  ·  tooling  ·  cfx.re runtime</text>
 <text x="900" y="84" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E7681" xml:space="preserve">santa catarina, br  ·  utc−3</text>
 
-<rect x="0" y="118" width="900" height="1" fill="#21262D"/>
+<rect x="0" y="118" width="900" height="1" fill="#262D36"/>
 <rect x="0" y="118" width="0" height="1" fill="#34FEC2" opacity=".9"><animate attributeName="width" from="0" to="120" dur="1.2s" begin=".3s" fill="freeze" calcMode="spline" keySplines=".2 0 0 1"/></rect>
 </svg>
