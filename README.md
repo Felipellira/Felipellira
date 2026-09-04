@@ -1,13 +1,14 @@
-<img src="assets/header.svg" alt="Felipe Lira — backend, developer tooling, game modding. Santa Catarina, Brasil." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Felipe Lira — backend, tooling, Cfx.re runtime" width="100%">
+</picture>
 
-Backend-leaning software engineer, self-taught. Most of my time goes into .NET services, developer tooling and the FiveM modding scene, with a standing interest in software architecture and in code that is still pleasant to work with a year later.
+Backend systems and the tooling around them. Mostly .NET and the Cfx.re runtime; occasionally everything else.
 
-<a href="https://github.com/Felipellira/ArtifactsScraper"><img src="assets/work-artifactsscraper.svg" alt="ArtifactsScraper — a lightweight C# library for scraping Cfx.re artifact information." width="100%"></a>
+#### work
 
-<img src="assets/stack.svg" alt="Stack — C#, Lua, TypeScript, C/C++, Python · .NET, Node.js, FiveM/Cfx.re, Linux · PostgreSQL, MongoDB, Azure, AWS" width="100%">
+<code>2025</code>&ensp;[ArtifactsScraper](https://github.com/Felipellira/ArtifactsScraper) — typed access to Cfx.re server artifacts, from C#.
 
-<p>
-  <a href="https://www.linkedin.com/in/felipellira/"><img src="assets/contact-linkedin.svg" alt="LinkedIn: in/felipellira" height="36"></a>
-  <a href="mailto:felipeluigilira@proton.me"><img src="assets/contact-email.svg" alt="Email: felipeluigilira@proton.me" height="36"></a>
-  <a href="https://discord.com/users/889898811529502740"><img src="assets/contact-discord.svg" alt="Discord: Felipellira" height="36"></a>
-</p>
+#### elsewhere
+
+[felipeluigilira@proton.me](mailto:felipeluigilira@proton.me) · [linkedin](https://www.linkedin.com/in/felipellira/) · [discord](https://discord.com/users/889898811529502740)
